@@ -57,7 +57,7 @@
     font-family: sans-serif;
     font-size: 30px;
     font-weight: bold;
-    color: rgb(255, 183, 2);
+    color: rgb(252, 182, 60);
     display: flex;
     align-items: center;
 }
@@ -67,12 +67,13 @@
     height: 65%;
     display: flex;
     margin-left: 25%;
-    object-fit: contain;
+    object-fit: cover;
 
 }
 
 .i-desc {
     font-family: sans-serif;
-    font-size: larger;
+    font-size: 20px;
+    /*color: rgb(255, 183, 2);*/
     font-weight: bolder;
 }
