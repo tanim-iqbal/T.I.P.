@@ -1,4 +1,5 @@
 import "./intro.css"
+import Me from "../../img/Doom.gif"
 
 const Intro = () => {
     return (
@@ -14,9 +15,14 @@ const Intro = () => {
                             <div className="i-title-item">Photographer</div>
                         </div>
                     </div>
+                    <div className="i-desc">
+                        I am an aspiring web developer looking to hone my newly aquired skills by working with a team or company that is in need of a highly motivated and eager to learn individual. 
+                    </div>
                 </div>
             </div>
-            <div className="i-right">right</div>
+            <div className="i-right">
+                <img src={Me} alt="" className="i-image" />
+            </div>
         </div>
     )
 }

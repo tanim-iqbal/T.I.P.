@@ -4,6 +4,9 @@
 }
 .i-left {
     flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .i-right {
@@ -12,6 +15,10 @@
 
 .i-left-wrapper {
     padding: 50px;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .i-intro {
@@ -43,7 +50,12 @@
     font-size: 30px;
     font-weight: bold;
     color: rgb(255, 183, 2);
-    background-color: rgb(1, 143, 98);
     display: flex;
     align-items: center;
+}
+
+.i-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
