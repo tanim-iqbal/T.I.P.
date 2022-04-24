@@ -2,21 +2,25 @@
     border: solid rgba(255, 204, 0, 0.851) 28px;
     height: 94vh;
     display: flex;
+    color: white;
     background-image: url(../../img/devgif.gif);background-size:cover;
     background-position:center center;
     background-repeat: no-repeat;
-    color: white;
+    position: relative;
 
 }
+
 .i-left {
     flex: 1;
     display: flex;
     /*align-items: center;*/
     justify-content: center;
+    background-color: rgba(0, 0, 0, 0.17)
 }
 
 .i-right {
     flex: 1;
+    background-color: rgba(0, 0, 0, 0.17)
 }
 
 .i-left-wrapper {

@@ -3,6 +3,7 @@ import Me from "../../img/Doom.gif"
 
 const Intro = () => {
     return (
+        <div className="bgimg">
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
@@ -23,6 +24,7 @@ const Intro = () => {
             </div>
             <div className="i-right">
                 <img src={Me} alt="" className="i-img" />
+            </div>
             </div>
         </div>
     )
