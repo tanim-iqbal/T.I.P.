@@ -1,6 +1,6 @@
 .i {
-    border: solid rgba(255, 204, 0, 0.851) 28px;
-    height: 94vh;
+    border: solid rgba(255, 204, 0, 0.851) 23px;
+    height: 95vh;
     display: flex;
     color: white;
     background-image: url(../../img/devgif.gif);background-size:cover;
