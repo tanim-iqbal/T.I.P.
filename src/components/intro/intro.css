@@ -82,5 +82,5 @@
     font-size: 20px;
     /*color: rgb(255, 183, 2);*/
     font-weight: bolder;
-    transform: rotate(-24deg);
+    transform: skewY(-24deg);
 }
