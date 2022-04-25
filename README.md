@@ -1,6 +1,9 @@
 # Tanim Iqbal's Portfolio (T.I.P)
 UNDER CONSTRUCTION
 
+# Live Site
+https://gentle-wildwood-98083.herokuapp.com/
+
 # Progress Shots
 <img width="1432" alt="Screen Shot 2022-04-23 at 10 54 14 PM" src="https://user-images.githubusercontent.com/89047977/164956150-2e6a5478-6436-46ae-83d3-2c7ba76a3420.png">
 
@@ -10,3 +13,4 @@ UNDER CONSTRUCTION
 
 # Note to self
 *nvm use 16.11.1
+git rm -r --cached .
