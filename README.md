@@ -13,7 +13,7 @@ https://gentle-wildwood-98083.herokuapp.com/
 
 # Technology Used
 React.js
-Javascript
+
 CSS
 
 # Note to self
