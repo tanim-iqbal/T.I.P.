@@ -11,6 +11,11 @@ https://gentle-wildwood-98083.herokuapp.com/
 
 <img width="1439" alt="Screen Shot 2022-04-24 at 5 03 11 PM" src="https://user-images.githubusercontent.com/89047977/164996485-fcebc265-d4a3-4209-b278-2097964c3f71.png">
 
+# Technology Used
+React.js
+Javascript
+CSS
+
 # Note to self
 *nvm use 16.11.1
 
