@@ -1,8 +1,8 @@
 .i {
-    border: solid rgba(255, 166, 0, 0.93) 23px;
+    border: solid rgb(255, 136, 0) 23px;
     height: 95vh;
     display: flex;
-    color: rgb(255, 224, 203);
+    color: hsl(40, 69%, 87%);
     background-image: url(../../img/devgif.gif);background-size:cover;
     background-position:center center;
     background-repeat: no-repeat;
