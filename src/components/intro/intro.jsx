@@ -17,7 +17,7 @@ const Intro = () => {
                     </div>
                     <br></br>
                     <div className="i-desc">
-                      I am web developer/artist here to make your projects come to life through strong visuals and unique user experiences.
+                      I am web developer/artist here to make your projects come to life through strong visuals and unique user experiences. Check out my work and let's connect!
                     </div>
                 </div>
             </div>
