@@ -17,7 +17,7 @@ const Intro = () => {
                     </div>
                     <br></br>
                     <div className="i-desc">
-                      I am an aspiring web developer looking to hone my newly aquired skills by working with a team or company that is in need of a highly motivated and eager to learn individual.
+                      I am web developer/artist here to make your projects come to life through strong visuals and unique user experiences.
                     </div>
                 </div>
             </div>
